@@ -31,7 +31,7 @@
 
 
 ## Comandos do git
-Essa seção foi elaborado a partir de aulas do curso de *Data Analytics* da WoMakersCode e do artigo [Git e Github - Guia rápido e Comandos básicos para iniciantes] (https://dev.to/womakerscode/git-e-github-guia-rapido-e-comandos-basicos-para-iniciantes-4ile). 
+Essa seção foi elaborado a partir de aulas do curso de *Data Analytics* da WoMakersCode e do artigo [[Git e Github] - Guia rápido e Comandos básicos para iniciantes](https://dev.to/womakerscode/git-e-github-guia-rapido-e-comandos-basicos-para-iniciantes-4ile). 
 
 Eu listei os comandos iniciais abaixo e tentei adicionar na ordem utilizada durante o primeiro uso em um novo repositório.
 
