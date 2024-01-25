@@ -28,8 +28,6 @@
 
 **Pull request:** solicitação de atualização do seu repositório local para o repositório remoto de outra pessoa para contribuir com o open source. A dona do repositório avalia e aceita ou não as alterações.
 
-
-
 ## Comandos do git
 Essa seção foi elaborado a partir de aulas do curso de *Data Analytics* da WoMakersCode e do artigo [[Git e Github] - Guia rápido e Comandos básicos para iniciantes](https://dev.to/womakerscode/git-e-github-guia-rapido-e-comandos-basicos-para-iniciantes-4ile). 
 
