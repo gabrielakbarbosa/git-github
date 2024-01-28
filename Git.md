@@ -52,3 +52,5 @@ Eu listei os comandos iniciais abaixo e tentei adicionar na ordem utilizada dura
     É necessário adicionar o comando e a mensagem para arquivos **NOVOS**: `git commit -m ‘seu comentário sobre seus arquivos’`
     
     Adicionar o comando e a mensagem para arquivos **ALTERADOS**: `git commit -am ‘digite a mensagem’`
+
+- `git push`: envia as alterações do repositório local para o repositório remoto. 
